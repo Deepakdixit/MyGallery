@@ -1,0 +1,25 @@
+PODS:
+  - Nuke (7.5.1)
+  - ProgressHUD (2.70)
+  - ReachabilitySwift (4.3.0)
+
+DEPENDENCIES:
+  - Nuke
+  - ProgressHUD
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nuke
+    - ReachabilitySwift
+  trunk:
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  Nuke: 3814db501e55f17951451839c726ffd91641e9a5
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+
+PODFILE CHECKSUM: 47034d43d2094545b1809cfe92b849215cc805e5
+
+COCOAPODS: 1.9.2
